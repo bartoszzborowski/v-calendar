@@ -1,5 +1,5 @@
 {
-  "name": "v-calendar",
+  "name": "vb-calendar",
   "version": "3.0.0-alpha.5",
   "private": false,
   "description": "A clean and extendable plugin for building simple attributed calendars in Vue.js.",
